@@ -52,6 +52,7 @@ transform: translate (-50%,0);
 }
 
 .main-menu {
+	align: center;
 	width: 100%;
 	background-color: #F1C40F;
 }
