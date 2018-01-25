@@ -2,6 +2,12 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 }
+.fb-like {
+position: absolute;
+top: 30%;
+left: 50%;
+transform: translate (-50%,0);
+}
 .header {
 	height: 500px;
 	background: url('img/header_bg.jpg') no-repeat;
